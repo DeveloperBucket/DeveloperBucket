@@ -2,7 +2,11 @@
 
 - Current Project: PteroCore
 - Previous Projects: Anarchy Antinuke, Cyd.
-- Contact on Discord: bucket#6870
+
+### Contact:
+
+Discord: bucket#6870
+Email: bucketdevs@gmail.com
 
 ### PteroCore:
 
