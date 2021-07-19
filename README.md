@@ -19,4 +19,4 @@ Do you want to easily manage your Pterodactyl Panel servers from Discord? Well m
 
 ### Statistics:
 
-<img src="https://github-readme-stats.vercel.app/api?username=f3v&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+<img src="https://github-readme-stats.vercel.app/api?username=DeveloperBucket&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
