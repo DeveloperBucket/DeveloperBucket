@@ -5,14 +5,13 @@
 
 ### Contact:
 
-Discord: bucket#6870
-Email: bucketdevs@gmail.com
+- Discord: bucket#6870
+- Email: bucketdevs@gmail.com
 
 ### PteroCore:
 
 Do you want to easily manage your Pterodactyl Panel servers from Discord? Well meet PteroCore. A Discord bot providing commands for you to manage your servers! You can start/stop/restart your server, send commands to your console, fetch your serverinfo, and get a list of all of your servers for the provided panel! 
-
-https://github.com/PteroCore
+- https://github.com/PteroCore
 
 ### Languages:
 
