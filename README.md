@@ -8,7 +8,7 @@
 - Discord: bucket#6870
 - Email: bucketdevs@gmail.com
 
-### Reccomendations:
+### Recommendations:
 
 - Are you looking for free hosting? Well DanBot Hosting is perfect! Offering a variety of server types for you to host anything.
 - https://discord.gg/DBH
