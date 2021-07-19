@@ -8,10 +8,12 @@
 - Discord: bucket#6870
 - Email: bucketdevs@gmail.com
 
-### PteroCore:
+### Reccomendations:
 
-Do you want to easily manage your Pterodactyl Panel servers from Discord? Well meet PteroCore. A Discord bot providing commands for you to manage your servers! You can start/stop/restart your server, send commands to your console, fetch your serverinfo, and get a list of all of your servers for the provided panel! 
-- https://github.com/PteroCore
+- Are you looking for free hosting? Well DanBot Hosting is perfect! Offering a variety of server types for you to host anything.
+- https://discord.gg/DBH
+- I also recommend Neoservers.org! Providing free & reliable bot hosting, this is a new service and will be something great! 
+- https://discord.gg/sHU4ubCSCY
 
 ### Languages:
 
