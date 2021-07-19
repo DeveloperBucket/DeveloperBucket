@@ -1,7 +1,7 @@
 ### Hello, I'm Bucket. A 15 year old Discord bot developer.
 
 - Current Project: PteroCore
-- Previous Projects: Anarchy Antinuke, 
+- Previous Projects: Anarchy Antinuke, Cyd.
 - Contact on Discord: bucket#6870
 
 ### Languages:
