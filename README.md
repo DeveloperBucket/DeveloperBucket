@@ -1,7 +1,7 @@
 ### Hello, I'm Bucket. Your average developer.
 
 - Current Project: PteroCore
-- Previous Projects: Anarchy Antinuke, Cyd.
+- Previous Projects: Anarchy Antinuke, Cyd, Bucket Music
 
 ### Contact:
 
