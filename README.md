@@ -1,7 +1,8 @@
 ### Hello, I'm Bucket. Your average developer.
 
-- Current Project: PteroCore
+- Current Project: N/A
 - Previous Projects: Anarchy Antinuke, Cyd, Bucket Music
+- Small Things: DaBaby Bot
 
 ### Contact:
 
